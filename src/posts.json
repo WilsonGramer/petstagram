@@ -1,0 +1,367 @@
+[
+    {
+        "image": "/images/bunny1.jpg",
+        "user": "FluffyFan9",
+        "tags": [
+            "bunny",
+            "cute",
+            "fluffball",
+            "rabbit",
+            "pet",
+            "soft",
+            "smallpet"
+        ],
+        "likes": 215,
+        "date": "2025-09-01T09:12:45-05:00"
+    },
+    {
+        "image": "/images/bunny2.jpg",
+        "user": "FluffyFan9",
+        "tags": [
+            "bunny",
+            "rabbit",
+            "sweet",
+            "cute",
+            "pet",
+            "smallpet",
+            "fluffy"
+        ],
+        "likes": 187,
+        "date": "2025-09-06T17:41:08-05:00"
+    },
+    {
+        "image": "/images/cat1.jpg",
+        "user": "WhiskerWizard",
+        "tags": [
+            "cat",
+            "sleepy",
+            "adorable",
+            "pet",
+            "fluffy",
+            "soft",
+            "feline"
+        ],
+        "likes": 305,
+        "date": "2025-09-02T13:07:22-05:00"
+    },
+    {
+        "image": "/images/cat2.jpg",
+        "user": "WhiskerWizard",
+        "tags": [
+            "cat",
+            "playful",
+            "cuteness",
+            "kitty",
+            "pet",
+            "feline",
+            "funny"
+        ],
+        "likes": 289,
+        "date": "2025-09-07T08:44:11-05:00"
+    },
+    {
+        "image": "/images/cat3.jpg",
+        "user": "WhiskerWizard",
+        "tags": ["cat", "kitty", "soft", "pet", "fluffy", "adorable", "feline"],
+        "likes": 164,
+        "date": "2025-09-03T21:33:10-05:00"
+    },
+    {
+        "image": "/images/cat4.jpg",
+        "user": "WhiskerWizard",
+        "tags": [
+            "cat",
+            "feline",
+            "snuggly",
+            "pet",
+            "cute",
+            "adorable",
+            "fluffy"
+        ],
+        "likes": 438,
+        "date": "2025-09-08T10:28:59-05:00"
+    },
+    {
+        "image": "/images/dog1.jpg",
+        "user": "GoodBoyDaily",
+        "tags": [
+            "dog",
+            "puppy",
+            "loyal",
+            "pet",
+            "cute",
+            "bestfriend",
+            "fluffy"
+        ],
+        "likes": 362,
+        "date": "2025-09-01T14:19:55-05:00"
+    },
+    {
+        "image": "/images/dog2.jpg",
+        "user": "GoodBoyDaily",
+        "tags": ["dog", "playful", "ball", "puppy", "pet", "funny", "happy"],
+        "likes": 284,
+        "date": "2025-09-04T20:05:42-05:00"
+    },
+    {
+        "image": "/images/dog3.jpg",
+        "user": "GoodBoyDaily",
+        "tags": ["dog", "smile", "happy", "puppy", "pet", "cute", "loyal"],
+        "likes": 311,
+        "date": "2025-09-05T16:54:17-05:00"
+    },
+    {
+        "image": "/images/dog4.jpg",
+        "user": "GoodBoyDaily",
+        "tags": [
+            "dog",
+            "adventure",
+            "bestfriend",
+            "puppy",
+            "pet",
+            "outdoors",
+            "loyal"
+        ],
+        "likes": 295,
+        "date": "2025-09-09T18:22:30-05:00"
+    },
+    {
+        "image": "/images/dog5.jpg",
+        "user": "GoodBoyDaily",
+        "tags": ["dog", "fluffy", "wagging", "puppy", "pet", "happy", "cute"],
+        "likes": 207,
+        "date": "2025-09-07T22:12:40-05:00"
+    },
+    {
+        "image": "/images/fish1.jpg",
+        "user": "BubbleBuddy",
+        "tags": [
+            "fish",
+            "aquarium",
+            "peaceful",
+            "pet",
+            "underwater",
+            "colorful",
+            "tanklife"
+        ],
+        "likes": 94,
+        "date": "2025-09-02T07:43:51-05:00"
+    },
+    {
+        "image": "/images/fish2.jpg",
+        "user": "BubbleBuddy",
+        "tags": [
+            "fish",
+            "underwater",
+            "colorful",
+            "pet",
+            "aquarium",
+            "bright",
+            "peaceful"
+        ],
+        "likes": 123,
+        "date": "2025-09-03T19:25:33-05:00"
+    },
+    {
+        "image": "/images/fish3.jpg",
+        "user": "BubbleBuddy",
+        "tags": [
+            "fish",
+            "tanklife",
+            "pet",
+            "aquarium",
+            "peaceful",
+            "underwater",
+            "colorful"
+        ],
+        "likes": 81,
+        "date": "2025-09-06T11:14:20-05:00"
+    },
+    {
+        "image": "/images/fish4.jpg",
+        "user": "BubbleBuddy",
+        "tags": [
+            "fish",
+            "ocean",
+            "bright",
+            "pet",
+            "colorful",
+            "underwater",
+            "peaceful"
+        ],
+        "likes": 144,
+        "date": "2025-09-08T20:36:12-05:00"
+    },
+    {
+        "image": "/images/guineapig1.jpg",
+        "user": "PiggySnacks",
+        "tags": [
+            "guineapig",
+            "cute",
+            "snacks",
+            "smallpet",
+            "pet",
+            "adorable",
+            "fluffy"
+        ],
+        "likes": 156,
+        "date": "2025-09-01T12:18:45-05:00"
+    },
+    {
+        "image": "/images/guineapig2.jpg",
+        "user": "PiggySnacks",
+        "tags": [
+            "guineapig",
+            "squeaky",
+            "adorable",
+            "smallpet",
+            "pet",
+            "cute",
+            "fluffy"
+        ],
+        "likes": 189,
+        "date": "2025-09-05T09:48:27-05:00"
+    },
+    {
+        "image": "/images/hamster1.jpg",
+        "user": "WheelRunner",
+        "tags": [
+            "hamster",
+            "tiny",
+            "playful",
+            "smallpet",
+            "pet",
+            "cute",
+            "adorable"
+        ],
+        "likes": 247,
+        "date": "2025-09-07T06:51:03-05:00"
+    },
+    {
+        "image": "/images/hamster2.jpg",
+        "user": "CheekPouch",
+        "tags": [
+            "hamster",
+            "cute",
+            "paws",
+            "smallpet",
+            "pet",
+            "adorable",
+            "tiny"
+        ],
+        "likes": 174,
+        "date": "2025-09-03T22:12:17-05:00"
+    },
+    {
+        "image": "/images/hermitcrab1.jpg",
+        "user": "PetRockLegend",
+        "tags": [
+            "hermitcrab",
+            "shell",
+            "unique",
+            "exotic",
+            "pet",
+            "ocean",
+            "crustacean"
+        ],
+        "likes": 71,
+        "date": "2025-09-09T09:33:20-05:00"
+    },
+    {
+        "image": "/images/rock1.jpg",
+        "user": "PetRockLegend",
+        "tags": ["rock", "funny", "lowmaintenance", "unique", "pet", "novelty"],
+        "likes": 63,
+        "date": "2025-09-08T21:47:02-05:00"
+    },
+    {
+        "image": "/images/iguana1.jpg",
+        "user": "Ssslytherin",
+        "tags": [
+            "iguana",
+            "reptile",
+            "green",
+            "exotic",
+            "pet",
+            "scales",
+            "lizard"
+        ],
+        "likes": 115,
+        "date": "2025-09-04T15:10:44-05:00"
+    },
+    {
+        "image": "/images/lizard1.jpg",
+        "user": "Ssslytherin",
+        "tags": [
+            "lizard",
+            "gecko",
+            "pet",
+            "reptile",
+            "exotic",
+            "scales",
+            "cool"
+        ],
+        "likes": 96,
+        "date": "2025-09-02T08:03:17-05:00"
+    },
+    {
+        "image": "/images/snake1.jpg",
+        "user": "Ssslytherin",
+        "tags": [
+            "snake",
+            "reptile",
+            "cool",
+            "exotic",
+            "pet",
+            "scales",
+            "slithery"
+        ],
+        "likes": 227,
+        "date": "2025-09-06T07:59:39-05:00"
+    },
+    {
+        "image": "/images/parakeet1.jpg",
+        "user": "TalkativeBuddy",
+        "tags": [
+            "parakeet",
+            "bird",
+            "colorful",
+            "pet",
+            "feathers",
+            "chirpy",
+            "cute"
+        ],
+        "likes": 183,
+        "date": "2025-09-06T15:12:28-05:00"
+    },
+    {
+        "image": "/images/parakeet2.jpg",
+        "user": "TalkativeBuddy",
+        "tags": [
+            "parakeet",
+            "chirpy",
+            "cute",
+            "bird",
+            "pet",
+            "colorful",
+            "feathers"
+        ],
+        "likes": 192,
+        "date": "2025-09-01T19:41:54-05:00"
+    },
+    {
+        "image": "/images/parrot1.jpg",
+        "user": "TalkativeBuddy",
+        "tags": [
+            "parrot",
+            "bird",
+            "funny",
+            "colorful",
+            "pet",
+            "feathers",
+            "talkative"
+        ],
+        "likes": 428,
+        "date": "2025-09-05T11:43:12-05:00"
+    }
+]

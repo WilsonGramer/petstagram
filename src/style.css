@@ -1,0 +1,28 @@
+@import "tailwindcss/preflight.css";
+@import "@fontsource-variable/inter";
+@import "@fontsource/pacifico";
+@import "@fontsource/material-symbols-outlined";
+
+html {
+    font-weight: 400;
+    font-family: "Inter Variable", sans-serif;
+}
+
+#app {
+    width: 100dvw;
+    height: 100dvh;
+}
+
+.icon {
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.25em;
+    line-height: 1;
+    font-family: "Material Symbols Outlined";
+    letter-spacing: normal;
+    text-transform: none;
+    word-wrap: normal;
+    direction: ltr;
+    white-space: nowrap;
+}
